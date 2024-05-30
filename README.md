@@ -14,4 +14,4 @@ Ce projet est une application de défilement infini (infinite scroll) développ�
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/Projet_React_Infinite_Scroll.git
+   git clone https://github.com/Mmec45/Projet_React_Infinite_Scroll.git
